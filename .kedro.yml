@@ -1,0 +1,6 @@
+context_path: kedro_pickle_bug.run.ProjectContext
+project_name: "kedro_pickle_bug"
+project_version: "0.16.5"
+package_name: "kedro_pickle_bug"
+hooks:
+  - kedro_pickle_bug.hooks.project_hooks
